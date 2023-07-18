@@ -1,0 +1,194 @@
+{
+    "timesheet": [
+        {
+
+            "userName": "gsingh3",
+            
+            "weekNo": 26,
+            
+            "year": 2023,
+            
+            "buId": 1,
+            
+            "taskId": 1,
+            
+            "taskDetails": "Testing Task 1",
+            
+            "taskTime": 10,
+            
+            "workingDays": 5,
+
+            "createdBy": "gsingh3"
+
+        },
+
+        {
+        
+            "userName": "gsingh3",
+        
+            "weekNo": 26,
+        
+            "year": 2023,
+        
+            "buId": 1,
+        
+            "taskId": 2,
+        
+            "taskDetails": "Testing Task 2",
+        
+            "taskTime": 20,
+        
+            "workingDays": 5,
+        
+            "createdBy": "gsingh3"
+        
+        },
+
+        {
+        
+            "userName": "gsingh3",
+        
+            "weekNo": 26,
+        
+            "year": 2023,
+        
+            "buId": 1,
+        
+            "taskId": 3,
+        
+            "taskDetails": "Testing Task 3",
+        
+            "taskTime": 30,
+        
+            "workingDays": 5,
+        
+            "createdBy": "gsingh3"
+        
+        },
+
+        {
+        
+            "userName": "gsingh3",
+        
+            "weekNo": 26,
+        
+            "year": 2023,
+        
+            "buId": 1,
+        
+            "taskId": 4,
+        
+            "taskDetails": "Testing Task 4",
+        
+            "taskTime": 40,
+        
+            "workingDays": 5,
+        
+            "createdBy": "gsingh3"
+        
+        },
+
+        {
+        
+            "userName": "gsingh3",
+        
+            "weekNo": 26,
+        
+            "year": 2023,
+        
+            "buId": 1,
+        
+            "taskId": 5,
+        
+            "taskDetails": "Testing Task 5",
+        
+            "taskTime": 50,
+        
+            "workingDays": 5,
+        
+            "createdBy": "gsingh3"
+        
+        },
+
+        {
+        
+            "userName": "gsingh3",
+        
+            "weekNo": 26,
+        
+            "year": 2023,
+        
+            "buId": 1,
+        
+            "taskId": 6,
+        
+            "taskDetails": "Milestones testing",
+        
+            "taskTime": null,
+        
+            "workingDays": 5,
+        
+            "createdBy": "gsingh3"
+        
+        }
+
+    ],
+    "tasktype": [
+        {
+            "id": 1,
+            "buId": 1,
+            "buName": "Management Services",
+            "taskId": 1,
+            "taskType": "Development",
+            "createdBy": "gsingh3",
+            "createdAt": "2023-06-20",
+            "updatedBy": "gsingh3",
+            "updatedAt": "2023-06-20"
+        },
+        {
+            "id": 2,
+            "buId": 1,
+            "buName": "Management Services",
+            "taskId": 2,
+            "taskType": "Enhancements",
+            "createdBy": "gsingh3",
+            "createdAt": "2023-06-20",
+            "updatedBy": "gsingh3",
+            "updatedAt": "2023-06-20"
+        },
+        {
+            "id": 3,
+            "buId": 1,
+            "buName": "Management Services",
+            "taskId": 3,
+            "taskType": "Support",
+            "createdBy": "gsingh3",
+            "createdAt": "2023-06-20",
+            "updatedBy": "gsingh3",
+            "updatedAt": "2023-06-20"
+        },
+        {
+            "id": 4,
+            "buId": 1,
+            "buName": "Management Services",
+            "taskId": 4,
+            "taskType": "Planning/Tracking",
+            "createdBy": "gsingh3",
+            "createdAt": "2023-06-20",
+            "updatedBy": "gsingh3",
+            "updatedAt": "2023-06-20"
+        },
+        {
+            "id": 5,
+            "buId": 1,
+            "buName": "Management Services",
+            "taskId": 5,
+            "taskType": "Other Tasks",
+            "createdBy": "gsingh3",
+            "createdAt": "2023-06-20",
+            "updatedBy": "gsingh3",
+            "updatedAt": "2023-06-20"
+        }
+    ]
+
+}
